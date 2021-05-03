@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="124d78eb-c173-4716-b527-50920cbfe8fc" name="Default Changelist" comment="leyou file....." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\develop\maven_repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../develop/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\develop\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1rI7LEdAWeiY4oY3yCT2THITYUb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="ToolWindowCommit.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/ly-page/src/main/java/com/leyou" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2687023" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\leyou\ly-page\src\main\java\com\leyou\page\client" />
+      <recent name="D:\IdeaProjects\leyou\ly-page\src\main\resources\templates" />
+      <recent name="D:\IdeaProjects\leyou\ly-common\src\main\java\com\leyou\commom\utils" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.leyou.page.service" />
+      <recent name="com.leyou.search.repository" />
+      <recent name="com.leyou.search.client" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.LyRegistry">
+    <configuration name="FdfsTest.testUpload" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ly-upload" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.upload.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.leyou.upload" />
+      <option name="MAIN_CLASS_NAME" value="com.leyou.upload.FdfsTest" />
+      <option name="METHOD_NAME" value="testUpload" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FdfsTest.testUploadAndCreateThumb" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ly-upload" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.upload.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.leyou.upload" />
+      <option name="MAIN_CLASS_NAME" value="com.leyou.upload.FdfsTest" />
+      <option name="METHOD_NAME" value="testUploadAndCreateThumb" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoodsRepositoryTest.loadData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ly-search" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.search.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.leyou.search.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.leyou.search.repository.GoodsRepositoryTest" />
+      <option name="METHOD_NAME" value="loadData" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoodsRepositoryTest.testCreateIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ly-search" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.search.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.leyou.search.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.leyou.search.repository.GoodsRepositoryTest" />
+      <option name="METHOD_NAME" value="testCreateIndex" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PageServiceTest.createHtml" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ly-page" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.page.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.leyou.page.service" />
+      <option name="MAIN_CLASS_NAME" value="com.leyou.page.service.PageServiceTest" />
+      <option name="METHOD_NAME" value="createHtml" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LyGateway" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ly-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.gateway.LyGateway" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LyItemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ly-item-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LyItemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LyPageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ly-page" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LyPageApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LyRegistry" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ly-registry" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LyRegistry" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LySearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ly-search" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LySearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LyUploadApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ly-upload" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LyUploadApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.FdfsTest.testUpload" />
+      <item itemvalue="JUnit.GoodsRepositoryTest.testCreateIndex" />
+      <item itemvalue="JUnit.GoodsRepositoryTest.loadData" />
+      <item itemvalue="JUnit.PageServiceTest.createHtml" />
+      <item itemvalue="JUnit.FdfsTest.testUploadAndCreateThumb" />
+      <item itemvalue="Spring Boot.LyGateway" />
+      <item itemvalue="Spring Boot.LyItemApplication" />
+      <item itemvalue="Spring Boot.LyRegistry" />
+      <item itemvalue="Spring Boot.LyUploadApplication" />
+      <item itemvalue="Spring Boot.LySearchApplication" />
+      <item itemvalue="Spring Boot.LyPageApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FdfsTest.testUploadAndCreateThumb" />
+        <item itemvalue="JUnit.FdfsTest.testUpload" />
+        <item itemvalue="JUnit.GoodsRepositoryTest.loadData" />
+        <item itemvalue="JUnit.PageServiceTest.createHtml" />
+        <item itemvalue="JUnit.GoodsRepositoryTest.testCreateIndex" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="124d78eb-c173-4716-b527-50920cbfe8fc" name="Default Changelist" comment="" />
+      <created>1618651694017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618651694017</updated>
+      <workItem from="1618651695838" duration="272000" />
+      <workItem from="1618651995153" duration="5275000" />
+      <workItem from="1618664521643" duration="502000" />
+      <workItem from="1618665249391" duration="174000" />
+      <workItem from="1618665449473" duration="4706000" />
+      <workItem from="1618708530701" duration="16332000" />
+      <workItem from="1618794780236" duration="931000" />
+      <workItem from="1618795738080" duration="44920000" />
+      <workItem from="1619092239221" duration="1530000" />
+      <workItem from="1619141969842" duration="13540000" />
+      <workItem from="1619227591811" duration="19005000" />
+      <workItem from="1619362588162" duration="456000" />
+      <workItem from="1619410866396" duration="860000" />
+      <workItem from="1619411751292" duration="28523000" />
+      <workItem from="1619535236638" duration="712000" />
+      <workItem from="1619575297707" duration="16468000" />
+      <workItem from="1619661111067" duration="8461000" />
+      <workItem from="1619683928247" duration="366000" />
+      <workItem from="1619684329197" duration="13471000" />
+      <workItem from="1619751767040" duration="1070000" />
+      <workItem from="1619764697801" duration="2790000" />
+      <workItem from="1619833090597" duration="659000" />
+      <workItem from="1619855185178" duration="4442000" />
+      <workItem from="1619862373083" duration="4587000" />
+      <workItem from="1619876989793" duration="5770000" />
+      <workItem from="1619921632207" duration="9629000" />
+      <workItem from="1620006953003" duration="13097000" />
+    </task>
+    <task id="LOCAL-00001" summary="leyou">
+      <created>1618911279637</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618911279637</updated>
+    </task>
+    <task id="LOCAL-00002" summary="leyou">
+      <created>1619008856937</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1619008856937</updated>
+    </task>
+    <task id="LOCAL-00003" summary="leyou">
+      <created>1619093446560</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1619093446560</updated>
+    </task>
+    <task id="LOCAL-00004" summary="leyou">
+      <created>1619236100501</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1619236100501</updated>
+    </task>
+    <task id="LOCAL-00005" summary="leyou file">
+      <created>1619445097657</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1619445097657</updated>
+    </task>
+    <task id="LOCAL-00006" summary="leyou file.">
+      <created>1619581001593</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1619581001593</updated>
+    </task>
+    <task id="LOCAL-00007" summary="leyou file.">
+      <created>1619855693792</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1619855693792</updated>
+    </task>
+    <task id="LOCAL-00008" summary="leyou file.">
+      <created>1620050284216</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1620050284216</updated>
+    </task>
+    <task id="LOCAL-00009" summary="leyou file...">
+      <created>1620050923174</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1620050923174</updated>
+    </task>
+    <task id="LOCAL-00010" summary="leyou file....">
+      <created>1620051789639</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1620051789639</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="leyou" />
+    <MESSAGE value="leyou file" />
+    <MESSAGE value="leyou file." />
+    <MESSAGE value="leyou file..." />
+    <MESSAGE value="leyou file...." />
+    <MESSAGE value="leyou file....." />
+    <option name="LAST_COMMIT_MESSAGE" value="leyou file....." />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
