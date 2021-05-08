@@ -1,5 +1,7 @@
 package com.leyou.search.pojo;
 
+import java.util.Map;
+
 /**
  * @Author ssqswyf
  * @Date 2021/4/27
@@ -15,6 +17,16 @@ public class SearchRequest {
      * 当前页
      */
     private Integer page;
+
+    private Map<String, String> filter;
+
+    public Map<String, String> getFilter() {
+        return filter;
+    }
+
+    public void setFilter(Map<String, String> filter) {
+        this.filter = filter;
+    }
 
     /**
      * 每页大小，不从页面接收，而是固定大小

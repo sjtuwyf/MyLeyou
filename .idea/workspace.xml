@@ -8,7 +8,66 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="124d78eb-c173-4716-b527-50920cbfe8fc" name="Default Changelist" comment="leyou file....." />
+    <list default="true" id="124d78eb-c173-4716-b527-50920cbfe8fc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_core_4_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_dysmsapi_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_amqp_client_5_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_http_client_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_core_2_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_23_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_23_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_ipc_reactor_netty_0_7_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_amqp_2_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_2_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_amqp_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webflux_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ly-page/src/main/java/com/leyou/page/mq/ItemListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ly-search/src/main/java/com/leyou/search/mq/ItemListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ly-sms/ly-sms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ly-sms/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ly-sms/src/main/java/com/leyou/LySmsApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ly-sms/src/main/java/com/leyou/sms/config/SmsProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ly-sms/src/main/java/com/leyou/sms/mq/SmsListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ly-sms/src/main/java/com/leyou/sms/utils/SmsUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ly-sms/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ly-sms/src/test/java/com/leyou/test/SmsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload/196.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-item/ly-item-service/ly-item-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-item/ly-item-service/ly-item-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-item/ly-item-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-item/ly-item-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/leyou/item/service/GoodsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/leyou/item/service/GoodsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-item/ly-item-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-item/ly-item-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-item/ly-item-service/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-item/ly-item-service/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-item/ly-item-service/target/classes/com/leyou/item/service/GoodsService.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-item/ly-item-service/target/classes/com/leyou/item/service/GoodsService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-page/ly-page.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-page/ly-page.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-page/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-page/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-page/src/main/java/com/leyou/page/service/PageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ly-page/src/main/java/com/leyou/page/service/PageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-page/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-page/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-page/src/test/java/com/leyou/page/service/PageServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ly-page/src/test/java/com/leyou/page/service/PageServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-page/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-page/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-page/target/classes/com/leyou/page/service/PageService.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-page/target/classes/com/leyou/page/service/PageService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-page/target/test-classes/com/leyou/page/service/PageServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-page/target/test-classes/com/leyou/page/service/PageServiceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-search/ly-search.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-search/ly-search.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-search/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-search/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-search/src/main/java/com/leyou/search/pojo/SearchRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ly-search/src/main/java/com/leyou/search/pojo/SearchRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-search/src/main/java/com/leyou/search/service/SearchService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ly-search/src/main/java/com/leyou/search/service/SearchService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-search/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-search/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-search/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ly-search/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-search/target/classes/com/leyou/search/pojo/SearchRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-search/target/classes/com/leyou/search/pojo/SearchRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-search/target/classes/com/leyou/search/service/SearchService$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-search/target/classes/com/leyou/search/service/SearchService$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ly-search/target/classes/com/leyou/search/service/SearchService.class" beforeDir="false" afterPath="$PROJECT_DIR$/ly-search/target/classes/com/leyou/search/service/SearchService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/141.html" beforeDir="false" afterPath="$PROJECT_DIR$/upload/141.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,8 +78,8 @@
       <list>
         <option value="Interface" />
         <option value="HTML File" />
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -63,16 +122,18 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="ToolWindowCommit.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="jdk.selected.JAVA_MODULE" value="adopt-openjdk-1.8" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/ly-page/src/main/java/com/leyou" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../itcast-rabbitmq" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2687023" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
@@ -92,6 +153,9 @@
       <recent name="com.leyou.search.repository" />
       <recent name="com.leyou.search.client" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.leyou.sms.mq" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
@@ -100,7 +164,18 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.LyRegistry">
+  <component name="RunManager" selected="JUnit.SmsTest.testSend">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FdfsTest.testUpload" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ly-upload" />
       <extension name="coverage">
@@ -149,22 +224,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GoodsRepositoryTest.testCreateIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ly-search" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leyou.search.repository.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.leyou.search.repository" />
-      <option name="MAIN_CLASS_NAME" value="com.leyou.search.repository.GoodsRepositoryTest" />
-      <option name="METHOD_NAME" value="testCreateIndex" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PageServiceTest.createHtml" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ly-page" />
       <extension name="coverage">
@@ -176,6 +235,22 @@
       <option name="PACKAGE_NAME" value="com.leyou.page.service" />
       <option name="MAIN_CLASS_NAME" value="com.leyou.page.service.PageServiceTest" />
       <option name="METHOD_NAME" value="createHtml" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmsTest.testSend" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ly-sms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.leyou.test" />
+      <option name="MAIN_CLASS_NAME" value="com.leyou.test.SmsTest" />
+      <option name="METHOD_NAME" value="testSend" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -216,6 +291,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LySmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ly-sms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LySmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LyUploadApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="ly-upload" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LyUploadApplication" />
@@ -225,7 +307,6 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.FdfsTest.testUpload" />
-      <item itemvalue="JUnit.GoodsRepositoryTest.testCreateIndex" />
       <item itemvalue="JUnit.GoodsRepositoryTest.loadData" />
       <item itemvalue="JUnit.PageServiceTest.createHtml" />
       <item itemvalue="JUnit.FdfsTest.testUploadAndCreateThumb" />
@@ -235,14 +316,16 @@
       <item itemvalue="Spring Boot.LyUploadApplication" />
       <item itemvalue="Spring Boot.LySearchApplication" />
       <item itemvalue="Spring Boot.LyPageApplication" />
+      <item itemvalue="Spring Boot.LySmsApplication" />
+      <item itemvalue="JUnit.SmsTest.testSend" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SmsTest.testSend" />
         <item itemvalue="JUnit.FdfsTest.testUploadAndCreateThumb" />
         <item itemvalue="JUnit.FdfsTest.testUpload" />
         <item itemvalue="JUnit.GoodsRepositoryTest.loadData" />
         <item itemvalue="JUnit.PageServiceTest.createHtml" />
-        <item itemvalue="JUnit.GoodsRepositoryTest.testCreateIndex" />
       </list>
     </recent_temporary>
   </component>
@@ -284,6 +367,13 @@
       <workItem from="1619876989793" duration="5770000" />
       <workItem from="1619921632207" duration="9629000" />
       <workItem from="1620006953003" duration="13097000" />
+      <workItem from="1620053230331" duration="2352000" />
+      <workItem from="1620134137698" duration="5024000" />
+      <workItem from="1620178740825" duration="7979000" />
+      <workItem from="1620264470933" duration="4502000" />
+      <workItem from="1620351488946" duration="4349000" />
+      <workItem from="1620437998862" duration="1439000" />
+      <workItem from="1620454946296" duration="8006000" />
     </task>
     <task id="LOCAL-00001" summary="leyou">
       <created>1618911279637</created>
@@ -355,7 +445,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620051789639</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="leyou file.....">
+      <created>1620053446159</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1620053446159</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

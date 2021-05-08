@@ -11,6 +11,7 @@ import com.leyou.item.mapper.SpuMapper;
 import com.leyou.item.mapper.StockMapper;
 import com.leyou.item.pojo.*;
 import org.apache.commons.lang3.StringUtils;
+import org.springframework.amqp.core.AmqpTemplate;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 import org.springframework.util.CollectionUtils;
@@ -38,13 +39,16 @@ public class GoodsService {
 
     private final BrandService brandService;
 
-    public GoodsService(SpuMapper spuMapper, SpuDetailMapper spuDetailMapper, CategoryService categoryService, BrandService brandService, SkuMapper skuMapper, StockMapper stockMapper) {
+    private final AmqpTemplate amqpTemplate;
+
+    public GoodsService(SpuMapper spuMapper, SpuDetailMapper spuDetailMapper, CategoryService categoryService, BrandService brandService, SkuMapper skuMapper, StockMapper stockMapper, AmqpTemplate amqpTemplate) {
         this.spuMapper = spuMapper;
         this.spuDetailMapper = spuDetailMapper;
         this.categoryService = categoryService;
         this.brandService = brandService;
         this.skuMapper = skuMapper;
         this.stockMapper = stockMapper;
+        this.amqpTemplate = amqpTemplate;
     }
 
     public PageResult<Spu> querySpuByPage(Integer page, Integer rows, Boolean saleable, String key) {
@@ -115,6 +119,9 @@ public class GoodsService {
         spuDetailMapper.insert(detail);
 
         saveSkuAndStock(spu);
+
+        // 发送mq消息
+        amqpTemplate.convertAndSend("item.insert",spu.getId());
 
 
     }
@@ -233,6 +240,9 @@ public class GoodsService {
         }
         // 新增sku和stock
         saveSkuAndStock(spu);
+
+        // 发送mq消息
+        amqpTemplate.convertAndSend("item.update",spu.getId());
     }
 
     public Spu querySpuById(Long id) {

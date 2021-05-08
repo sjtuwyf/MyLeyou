@@ -132,7 +132,12 @@ public class PageService {
         context.setVariables(loadData(spuId));
 
         // 输出流
-        File dest = new File("D:\\IdeaProjects\\leyou\\upload", spuId + ".html");
+        File dest = new File("D:\\code\\IdeaProjects\\leyou\\upload", spuId + ".html");
+
+        if (dest.exists()) {
+            dest.delete();
+        }
+
         try (PrintWriter writer = new PrintWriter(dest, "UTF-8")) {
             // 生成HTML
             templateEngine.process("item", context, writer);
@@ -143,5 +148,12 @@ public class PageService {
 
 
 
+    }
+
+    public void deleteHtml(Long spuId) {
+        File dest = new File("D:\\code\\IdeaProjects\\leyou\\upload", spuId + ".html");
+        if (dest.exists()) {
+            dest.delete();
+        }
     }
 }

@@ -7,6 +7,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="ly-sms" />
         <module name="ly-page" />
         <module name="ly-gateway" />
         <module name="ly-search" />
@@ -27,6 +28,7 @@
       <module name="ly-page" target="1.8" />
       <module name="ly-registry" target="1.8" />
       <module name="ly-search" target="1.8" />
+      <module name="ly-sms" target="8" />
       <module name="ly-upload" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -39,6 +41,7 @@
       <module name="ly-page" options="-parameters" />
       <module name="ly-registry" options="-parameters" />
       <module name="ly-search" options="-parameters" />
+      <module name="ly-sms" options="-parameters" />
       <module name="ly-upload" options="-parameters" />
     </option>
   </component>

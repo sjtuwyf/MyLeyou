@@ -12,8 +12,8 @@ import static org.junit.Assert.*;
  * @Author ssqswyf
  * @Date 2021/4/29
  */
-@RunWith(SpringRunner.class)
-@SpringBootTest
+//@RunWith(SpringRunner.class)
+//@SpringBootTest
 public class PageServiceTest {
 
     @Autowired
